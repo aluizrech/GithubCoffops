@@ -1,8 +1,8 @@
-Converter LocalDateTime XMLGregorianCalendar Java
- janeiro 17, 2021  Luiz Antônio Rech  0 comentários
+#Converter LocalDateTime XMLGregorianCalendar Java
+
 Mais um post com uma dica super rápida e simples de como converter LocalDateTime e LocalDate para XMLGregorianCalendar no Java.
 
-1 – Um pouco sobre o XMLGregorianCalendar
+# 1 – Um pouco sobre o XMLGregorianCalendar
 O padrão XML Schema define regras claras para especificar datas no formato XML. Para usar esse formato, a classe Java XMLGregorianCalendar foi introduzida no Java 1.5, que representa o tipo de dados de data/hora W3C XML Schema 1.0.
 
 2 – Um pouco sobre o LocalDate
